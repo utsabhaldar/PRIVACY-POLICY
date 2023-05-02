@@ -5,9 +5,9 @@ LAST MODIFIED: 24 April 2023
 
 
 
-Utsab Haldar takes your privacy very seriously. This Privacy Policy explains how CHESS CLOCK collects, uses, and discloses information, and your choices for managing your information preferences.
+Utsab Haldar takes your privacy very seriously. This Privacy Policy explains how this app collects, uses, and discloses information, and your choices for managing your information preferences.
 
-This Privacy Policy describes CHESS CLOCK’s data practices associated with our CHESS CLOCK services ("Services"), and the choices that CHESS CLOCK provides in connection with our collection and use of your information. This Privacy Policy is intended for website publisher customers ("Publishers"), website merchant customers ("Merchants") and individual users of websites and apps. For Publishers and Merchants, this Policy explains how official website may collect, use and disclose information associated with your company and with your company’s websites and apps that use official website Services. For individual website and app users, this Privacy Policy explains how official website may collect, use, and disclose information when you visit our website or when you use any website or app that uses official website Services.
+This Privacy Policy describes this app’s data practices associated with our CHESS CLOCK services ("Services"), and the choices that this app provides in connection with our collection and use of your information. This Privacy Policy is intended for website publisher customers ("Publishers"), website merchant customers ("Merchants") and individual users of websites and apps. For Publishers and Merchants, this Policy explains how official website may collect, use and disclose information associated with your company and with your company’s websites and apps that use official website Services. For individual website and app users, this Privacy Policy explains how official website may collect, use, and disclose information when you visit our website or when you use any website or app that uses official website Services.
 
 Publishers and Merchants and other clients may also have their own policies that govern how they collect, use, and share data. These policies may differ from official website’s policies described in this Privacy Policy. Please consult the privacy policies of the websites you visit and apps you use to become familiar with their privacy practices and to learn about any choices that these companies may offer with respect to their information practices. In addition, any website containing our Services may contain links to websites or content operated and maintained by third parties, over which we have no control. We encourage you to review the privacy policy of a third-party website before disclosing any information to the website.
 
@@ -33,4 +33,4 @@ From time to time, we may change this Privacy Policy. If we decide to change thi
 
 4. Contact Us
 
-If you have any questions or concerns regarding this CHESS CLOCK Privacy Policy, please contact us by emailing us at utsabhaldar88888@gmail.com.
+If you have any questions or concerns regarding this this app's Privacy Policy, please contact us by emailing us at utsabhaldar88888@gmail.com.
